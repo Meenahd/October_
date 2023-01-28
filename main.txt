@@ -13,7 +13,9 @@ this is for our training
  Install git on your local machine
  Create repository 
  Vs code, open file and repository folder
- git clone 
  git add .
- gti commit -m "description"
-git push
+ git clone
+ git push
+ git pull
+ git status
+ git commint -m ""
